@@ -1,0 +1,25 @@
+{
+  "name": "google-map-api",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitri BOUTEILLE <bonjour@dimitri-bouteille.fr> (https://github.com/dimitriBouteille)",
+  "keywords": [
+    "google",
+    "map",
+    "marker",
+    "marker-html",
+    "api",
+    "map",
+    "google maps",
+    "google-maps"
+  ],
+  "homepage": "https://github.com/dimitriBouteille/google-map-api/",
+  "bugs": {
+    "url": "https://github.com/dimitriBouteille/google-map-api/issues"
+  },
+  "license": "ISC"
+}
